@@ -7,26 +7,31 @@
 [TOC]
 
 - [Software testing fundamentals](#Software-testing-fundamentals)
-
-
+- [Document writing methodology](#Document-writing-methodology)
+- [Manual testing practice](#Manual-testing-practice)
+- [Automation testing](#Automation-testing)
+  - [Automation testing articles](#Automation-testing-articles) 
+  - [Automation testing codeless](#Automation-testing-codeless)
+  - [Automation testing practice websites](#Automation-testing-practice-websites)
+  - [Automation testing with code](#Automation-testing-with-code)
 ------------
 
 ## Software testing fundamentals
 yadada
 
-##Document writing methodology
+## Document writing methodology
 
-###Manual testing practice
+### Manual testing practice
 
-#Automation testing
+# Automation testing
 
-##Automation testing articles
+## Automation testing articles
 
-###Automation testing codeless
+### Automation testing codeless
 
-####Automation testing practice websites
+#### Automation testing practice websites
 
-#####Automation testing with code
+##### Automation testing with code
 
 # Javascript
 | Library name  | Used for      |
