@@ -26,10 +26,19 @@
 
 #####Automation testing with code
 
+# Javascript
 | Library name  | Used for      |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Cypress.js    | Integration && ui test  |
+| Jest.js  | Unit testing <React> |
+  |Jasmin.js|Unit testing|
+  
+  # Python
+| Library name  | Used for      |
+| ------------- | ------------- |
+| Cypress.js    | Integration && ui test  |
+| Jest.js  | Unit testing <React> |
+  |Jasmin.js|Unit testing|
 
 #Test Management Tools
 
