@@ -1,10 +1,8 @@
 # The Tester Oracle
 
+------------
+
 **Table of Contents**
-
-[TOCM]
-
-[TOC]
 
 - [Software testing fundamentals](#Software-testing-fundamentals)
 - [Document writing methodology](#Document-writing-methodology)
