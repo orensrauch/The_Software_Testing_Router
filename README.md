@@ -13,7 +13,7 @@
   - [Automation testing practice websites](#Automation-testing-practice-websites)
   - [Automation testing with code](#Automation-testing-with-code)
   - - [Automation testing libraries](#Automation-testing-libraries)
-- [Test Management Tools](#Test-Management-Tools)
+- [Test Management and Collaboration Tools](#Test-Management-and-Collaboration-Tools)
 ------------
 
 ## Software testing fundamentals
@@ -51,8 +51,11 @@ yadada
 | PyTest  | Functional and API testing |
   |Unittest|automated unit test framework|
 
-# Test Management Tools
+# Test Management and Collaboration Tools
 
+  * `Jira`
+  * `YouTrack`
+  * `testlink`
 
 
 
