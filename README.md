@@ -6,12 +6,14 @@
 
 - [Software testing fundamentals](#Software-testing-fundamentals)
 - [Document writing methodology](#Document-writing-methodology)
-- [Manual testing practice](#Manual-testing-practice)
+- [Manual testing](#Manual-testing)
 - [Automation testing](#Automation-testing)
   - [Automation testing articles](#Automation-testing-articles) 
   - [Automation testing codeless](#Automation-testing-codeless)
   - [Automation testing practice websites](#Automation-testing-practice-websites)
   - [Automation testing with code](#Automation-testing-with-code)
+  - - [Automation testing libraries](#Automation-testing-libraries)
+- [Test Management Tools](#Test-Management-Tools)
 ------------
 
 ## Software testing fundamentals
@@ -19,7 +21,7 @@ yadada
 
 ## Document writing methodology
 
-### Manual testing practice
+### Manual testing 
 
 # Automation testing
 
@@ -31,21 +33,25 @@ yadada
 
 ##### Automation testing with code
 
+
+###### Automation testing libraries
+
 # Javascript
 | Library name  | Used for      |
 | ------------- | ------------- |
 | Cypress.js    | Integration && ui test  |
 | Jest.js  | Unit testing <React> |
-  |Jasmin.js|Unit testing|
+  |jasmine.js|Unit testing|
+  |K6|load and performance testing|
   
   # Python
 | Library name  | Used for      |
 | ------------- | ------------- |
-| Cypress.js    | Integration && ui test  |
-| Jest.js  | Unit testing <React> |
-  |Jasmin.js|Unit testing|
+| Robot   | Acceptance and TDD Testing   |
+| PyTest  | Functional and API testing |
+  |Unittest|automated unit test framework|
 
-#Test Management Tools
+# Test Management Tools
 
 
 
