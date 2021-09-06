@@ -47,14 +47,16 @@ yadada
   # Python
 | Library name  | Used for      |
 | ------------- | ------------- |
-| Robot   | Acceptance and TDD Testing   |
-| PyTest  | Functional and API testing |
-  |Unittest|automated unit test framework|
+| Robot   | Acceptance and TDD Testing  |
+| PyTest  | Functional and API testing  |
+|Unittest |automated unit test framework|
 
 # Test Management and Collaboration Tools
 
-  * `Jira`
+  * `Jira` 
+  
   * `YouTrack`
+  
   * `testlink`
 
 
