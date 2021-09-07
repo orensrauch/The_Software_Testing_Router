@@ -17,7 +17,19 @@
 ------------
 
 ## Software testing fundamentals
-yadada
+Before you can start testing software, you need to understand the terminology, the logic reason of when to do what and the why.
+i suggest of corse to learn ISTQB FOUNDATION as a ground base of knowladge required to start your path from.
+there is also a need to understand testing methologies such as Agile and SCRUM framework which is the main domain of performing test nowdays.
+here are main objectives a QA tester need to understand and apply, the more deeper the understanding will go, the smarter the QA tester will be, the more proffesional skills and confidence he will add to the project under test.
+
+The QA tester has main responsebility, to give confidence in the stability of the software to performe as the client expect it be.
+we need to thibk on every scenario, every test case, we need to challenge the software in the most creative possible way our time and budgest allow in order to alert on every defect we can find to raise the confidence rate before the software goes production.
+
+# What is:
+
+* `Testing` -
+* `Quality Assurance` - 
+* ``
 
 ## Document writing methodology
 
