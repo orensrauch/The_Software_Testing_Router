@@ -26,7 +26,7 @@ enjoy 🚀
 - [Testing Tools](#Testing-Tools)
 - [Test Management and Collaboration Tools](#Test-Management-and-Collaboration-Tools)
   - [Credits and Thanks](#Credits-and-Thanks)
--[Testing Types](#Testing-Types)
+  - -[Testing Types](#Testing-Types)
 ------------
 
 ## Software testing fundamentals ⚙️
