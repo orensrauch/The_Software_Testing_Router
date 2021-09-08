@@ -181,8 +181,7 @@ wwww
 🔍
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
-* [`SATISFICE`](https://www.satisfice.com/) -  by James and Lenore Bach, Awesome testing practical learning material.
-![](https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/satisfice-logo.jpg?raw=true)
+![](https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/satisfice-logo.jpg?raw=true)[`SATISFICE`](https://www.satisfice.com/) -  by James and Lenore Bach, Awesome testing practical learning material.
 
 # Credits and Thanks
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
