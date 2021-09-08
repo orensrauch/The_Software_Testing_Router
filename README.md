@@ -33,7 +33,7 @@ enjoy 🚀
 
 # Software testing fundamentals 
 ⚙️
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 Before you can start testing software, you need to understand the terminology, the logic reason of when to do what and the why.
 i suggest of corse to learn ISTQB FOUNDATION as a ground base of knowladge required to start your path from.
@@ -45,7 +45,7 @@ we need to thibk on every scenario, every test case, we need to challenge the so
 
 # Terminology & Glossary
 💬
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 ## The meaning of 
 | Term ☝🏻        |                Meaning❓      |
@@ -67,12 +67,12 @@ we need to thibk on every scenario, every test case, we need to challenge the so
 
 # Document writing methodology
 📝
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 
 # Testing Types 
 🎯
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 Theres many testing types and techniques, each one is suited for a different need in the SDLC, most of them can be automated(will be discussed later in this repo) and some are are avalable only when using third-party tools and scripting language.
 
@@ -109,34 +109,34 @@ Here are testing types and techniques a tester must understand and apply when sc
 
 # Manual testing 
 👩🏻‍🔧
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 #### Test Pyramid
 ![](https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/Testing%20Pyramid.png?raw=true)
 
 # Automation testing 
 👩🏻‍💻
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 
 # Automation testing codeless tools
 📦
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 # Automation testing practice websites 
 🖥️
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 wwww
 
 # Automation testing with code 
 🧰
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 
 # Automation testing libraries and frameworks
 💾
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 ## Javascript
 | Library name  | Used for      |
@@ -160,7 +160,7 @@ wwww
 
 # Testing Tools 
 🛠️
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 | Tool name  | Used for      |
 | ------------- | ------------- |
@@ -178,7 +178,7 @@ wwww
 
 # Test Management and Team collaboration Tools
 🤝 🧠
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 | Logo  | Link      | What is About|
 | ------------- | ------------- | ------------- |
@@ -190,7 +190,7 @@ wwww
 
 # Articles and Learning resources
 🔍
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 | Logo  | Link      | What is About|
 | ------------- | ------------- | ------------- |
@@ -200,7 +200,7 @@ wwww
 
 
 # Credits and Thanks
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 - 
 * Assets
 
