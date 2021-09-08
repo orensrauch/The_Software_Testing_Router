@@ -25,8 +25,8 @@ enjoy 🚀
   - [Automation testing codeless](#Automation-testing-codeless-tools)
   - [Automation testing practice websites](#Automation-testing-practice-websites)
   - [Automation testing with code](#Automation-testing-with-code)
-  - - [Automation testing libraries & frameworks](#Automation-testing-libraries-&-frameworks)
-  - 
+  - [Automation testing libraries & frameworks](#Automation-testing-libraries-and-frameworks)
+  
 - [Testing Tools](#Testing-Tools)
 - [Test Management and Collaboration Tools](#Test-Management-and-Collaboration-Tools)
 - [Credits and Thanks](#Credits-and-Thanks)
