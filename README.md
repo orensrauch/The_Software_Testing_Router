@@ -1,4 +1,4 @@
-# The Software Testing Router👩🏻‍💻👨🏻‍💻
+# The Software Testing Router 👩🏻‍💻👨🏻‍💻
 This repo is the best place to learn and keep your testing skills sharpend,
 all the content listed below was gathered and placed in a specific order from the intro of the software testing domain up to advanced testing technologies and skills.
 ![](https://github.com/orensrauch/The_Software_Tester_Oracle/blob/main/assets/the%20best%20software%20testing%20resource.png?raw=true).
@@ -11,7 +11,7 @@ enjoe
 ------------
 
 **Table of Contents**
-
+- [Top Page](#The-Software-Testing-Router)
 - [Software testing fundamentals](#Software-testing-fundamentals)
   - [Document writing methodology](#Document-writing-methodology)
   - [Test Types](#Test-Types)
@@ -37,14 +37,19 @@ The QA tester has main responsebility, to give confidence in the stability of th
 we need to thibk on every scenario, every test case, we need to challenge the software in the most creative possible way our time and budgest allow in order to alert on every defect we can find to raise the confidence rate before the software goes production.
 
 # Terminology & Glossary 💬:
-
+- [Top Page](#The-Software-Testing-Router)
+- 
 * `Testing` -
 * `Quality Assurance` - 
 * ``
 
 ## Document writing methodology 📝
+- [Top Page](#The-Software-Testing-Router)
+
 
 ## Test Types 🎯
+- [Top Page](#The-Software-Testing-Router)
+
 Theres many testing types and techniques, each one is suited for a different need in the SDLC, most of them can be automated(will be discussed later in this repo) and some are are avalable only when using third-party tools and scripting language.
 
 Here are testing types and techniques a tester must understand and apply when scenario require:
