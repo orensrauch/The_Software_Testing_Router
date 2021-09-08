@@ -1,8 +1,11 @@
 # The Tester Router👩🏻‍💻👨🏻‍💻
 This repo is the best place to learn and keep your testing skills sharpend,
 all the content listed below was gathered and placed in a specific order from the intro of the software testing domain up to advanced testing technologies and skills.
+![](https://github.com/orensrauch/The_Software_Tester_Oracle/blob/main/assets/the%20best%20software%20testing%20resource.png?raw=true).
 
 if you can, then contribute to this awsome tester router repo.
+
+
 
 enjoe
 ------------
@@ -114,7 +117,9 @@ Testing techniques and tactics:
   * [`Testrail`](https://www.gurock.com/testrail/) - currently marked as the top tool (*paid) for team collaboration in the agile era
 
 
-
+# Credits and Thanks
+* Assets:
+  -header image : <a href='https://www.freepik.com/photos/technology'>Technology photo created by freepik - www.freepik.com</a>
 
 
 
