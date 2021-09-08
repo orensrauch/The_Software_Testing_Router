@@ -183,9 +183,9 @@ wwww
 | Logo  | Link      | What is About|
 | ------------- | ------------- | ------------- |
 |![](https://www.jfrog.com/jira/images/atlassian-jira-logo-large.png)|[`Jira`](https://www.atlassian.com/software/jira)| a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management|
-|![](https://resources.jetbrains.com/storage/products/youtrack/img/meta/youtrack_logo_300x300.png)|[`YouTrack`](https://www.jetbrains.com/youtrack/)|Developed by Jet Brains, `paid*` tool, concidered to be the most professional a team can get|
-|![](https://i0.wp.com/kubedex.com/wp-content/uploads/2018/09/TestLink.png?fit=230%2C230&ssl=1)|[`testlink`](https://testlink.org/)|Well known open source test management tool|
-|![](https://www.alfasoft.com/images/products/TestRail/Images/TestRail_Logo_Square.png)|[`Testrail`](https://www.gurock.com/testrail/)|currently marked as the top tool `*paid` for team collaboration in the agile era|
+|![](https://iconape.com/wp-content/files/ej/371677/svg/371677.svg)|[`YouTrack`](https://www.jetbrains.com/youtrack/)|Developed by Jet Brains, `paid*` tool, concidered to be the most professional a team can get|
+|![](https://d1myhw8pp24x4f.cloudfront.net/software_logo/1574939028_TestLink%20logo_mid.png)|[`testlink`](https://testlink.org/)|Well known open source test management tool|
+|![](https://www.appvizer.com/media/application/29234/logo/logo-testrail-by-gurock.png)|[`Testrail`](https://www.gurock.com/testrail/)|currently marked as the top tool `*paid` for team collaboration in the agile era|
 |![](https://www.practitest.com/assets/img/logo.png)|[`PractiTest`](https://www.practitest.com/)|A high quality test management tool with fantastic Documentation and multi integration capabilities|
 
 # Articles and Learning resources
