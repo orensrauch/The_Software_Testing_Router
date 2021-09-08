@@ -25,7 +25,7 @@ enjoy 🚀
   - [Automation testing with code](#Automation-testing-with-code)
   - [Automation testing libraries & frameworks](#Automation-testing-libraries-and-frameworks)
 - [Testing Tools](#Testing-Tools)
-- [Test Management and Collaboration Tools](#Test-Management-and-Collaboration-Tools)
+- [Test Management and Collaboration Tools](#Test-Management-and-Team-collaboration-Tools)
 - [Credits and Thanks](#Credits-and-Thanks)
  
 ------------
@@ -148,7 +148,7 @@ wwww
 * [`Leonardo`](https://github.com/outbrain/Leonardo) - Developed By outbrain dev team, This tool allow you as a dev or tester to test your app behaviour under empty inputs, errors coming from the server and situations when the server not responding, Also, unique option is to check "Slow" server responds behaviour.
 
 
-# Test Management and Collaboration Tools
+# Test Management and Team collaboration Tools
 🤝 🧠
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
