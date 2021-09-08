@@ -15,7 +15,7 @@ enjoy 🚀
 - [Top Page](#The-Software-Testing-Router)
 - [Software testing fundamentals](#Software-testing-fundamentals)
   - [Document writing methodology](#Document-writing-methodology)
-  - [Test Types](#Test-Types)
+  - [Test Types](#Testing-Types)
 - [Manual testing](#Manual-testing)
 - [Automation testing](#Automation-testing)
   - [Automation testing articles](#Automation-testing-articles) 
@@ -26,6 +26,7 @@ enjoy 🚀
 - [Testing Tools](#Testing-Tools)
 - [Test Management and Collaboration Tools](#Test-Management-and-Collaboration-Tools)
   - [Credits and Thanks](#Credits-and-Thanks)
+-[Testing Types](#Testing-Types)
 ------------
 
 ## Software testing fundamentals ⚙️
@@ -48,7 +49,7 @@ we need to thibk on every scenario, every test case, we need to challenge the so
 - [Top Page](#The-Software-Testing-Router)
 
 
-## Test Types 🎯
+## Testing Types 🎯
 - [Top Page](#The-Software-Testing-Router)
 
 Theres many testing types and techniques, each one is suited for a different need in the SDLC, most of them can be automated(will be discussed later in this repo) and some are are avalable only when using third-party tools and scripting language.
