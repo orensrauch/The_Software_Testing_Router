@@ -26,6 +26,7 @@ enjoy 🚀
   - [Automation testing libraries & frameworks](#Automation-testing-libraries-and-frameworks)
 - [Testing Tools](#Testing-Tools)
 - [Test Management and Collaboration Tools](#Test-Management-and-Team-collaboration-Tools)
+- [Software Testing Articles Resources](#Articles)
 - [Credits and Thanks](#Credits-and-Thanks)
  
 ------------
@@ -180,7 +181,8 @@ wwww
 🔍
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
-* `SATISFICE`
+* [`SATISFICE`](https://www.satisfice.com/) -  by James and Lenore Bach, Awesome testing practical learning material.
+![](https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/satisfice-logo.jpg?raw=true)
 
 # Credits and Thanks
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
