@@ -22,7 +22,7 @@ enjoy 🚀
   - [Automation testing codeless](#Automation-testing-codeless)
   - [Automation testing practice websites](#Automation-testing-practice-websites)
   - [Automation testing with code](#Automation-testing-with-code)
-  - - [Automation testing libraries](#Automation-testing-libraries)
+  - - [Automation testing libraries & frameworks](#Automation-testing-libraries-&-frameworks)
 - [Testing Tools](#Testing-Tools)
 - [Test Management and Collaboration Tools](#Test-Management-and-Collaboration-Tools)
   - [Credits and Thanks](#Credits-and-Thanks)
@@ -91,15 +91,17 @@ Testing techniques and tactics:
 ##### Automation testing with code 🧰
 
 
-###### Automation testing libraries 💾
+###### Automation testing libraries & frameworks 💾
 
 # Javascript
 | Library name  | Used for      |
 | ------------- | ------------- |
-| [Cypress](https://www.cypress.io/)    | E2E testing (next big thing) |
+|[Chai](https://www.chaijs.com/)|BDD / TDD assertion library|
+|[Mocha](https://mochajs.org/)|Testing framework allowing Async|
 | [Jest.js](https://jestjs.io/)       | Unit testing|
 |[jasmine.js](https://jasmine.github.io/index.html)     |Unit testing|
 |[K6](https://k6.io/) |Stress testing|
+| [Cypress](https://www.cypress.io/)    | E2E testing (next big thing) |
 |[playwright](https://playwright.dev/)|end-to-end testing for modern web apps|
 |[Karma](https://karma-runner.github.io/latest/index.html) |testing JavaScript code in real browsers|
 |Phantom|Scriptable Headless Browser| - currently this project is suspended*
