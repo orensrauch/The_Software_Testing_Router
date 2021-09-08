@@ -197,9 +197,6 @@ wwww
 |![](https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/tmap-logo.png.jpg?raw=true)|[`Tmap`](https://www.tmap.net/)|Well known publisher of books and learning material in the QA and DevOps domain|
 
 
-
-![](https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/tmap-logo.png.jpg?raw=true)[`Tmap`](https://www.tmap.net/)
-
 # Credits and Thanks
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 - 
