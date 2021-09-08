@@ -1,14 +1,14 @@
 # The Software Testing Router
 👩🏻‍💻👨🏻‍💻
-This repo is the best place to learn and keep your testing skills sharpend,
-all the content listed below was gathered and placed in a specific order from the intro of the software testing domain up to advanced testing technologies and skills.
+This repo is the best place to learn and keep your testing skills sharpen,
+The entire content listed below was gathered and placed in a specific order from the intro of the software testing domain up to advanced testing technologies and skills.
 ![](https://github.com/orensrauch/The_Software_Tester_Oracle/blob/main/assets/the%20best%20software%20testing%20resource.png?raw=true).
 
-if you can, then contribute to this awsome repo.
+If you can, then contribute to this great repo.
 
 
 
-enjoy 🚀
+Happy Testing 🚀
 ------------
 
 **Table of Contents**
@@ -34,14 +34,15 @@ enjoy 🚀
 # Software testing fundamentals 
 ⚙️
 - [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
+- 
+Hi 👋 and welcome to this Awesome repo that is all about software testing.
+Before you can start testing software, you need to understand the terminology, the logical reason of when to do what, and the why.
+I suggest of course to learn ISTQB FOUNDATION as a ground base of knowledge required to start your path.
+there is also a need to understand testing methodologies such as Agile and SCRUM framework which is the main domain of performing tests nowadays.
+here are the main objectives a QA tester needs to understand and apply, the deeper the understanding will go, the smarter the QA tester will be, the more professional skills and confidence he will add to the project under test.
 
-Before you can start testing software, you need to understand the terminology, the logic reason of when to do what and the why.
-i suggest of corse to learn ISTQB FOUNDATION as a ground base of knowladge required to start your path from.
-there is also a need to understand testing methologies such as Agile and SCRUM framework which is the main domain of performing test nowdays.
-here are main objectives a QA tester need to understand and apply, the more deeper the understanding will go, the smarter the QA tester will be, the more proffesional skills and confidence he will add to the project under test.
-
-The QA tester has main responsebility, to give confidence in the stability of the software to performe as the client expect it be.
-we need to thibk on every scenario, every test case, we need to challenge the software in the most creative possible way our time and budgest allow in order to alert on every defect we can find to raise the confidence rate before the software goes production.
+The QA tester has the main responsibility, to give confidence in the stability of the software to perform as the client expects it to be.
+we need to think about every scenario, every test case, we need to challenge the software in the most creative possible way our time and budget allow in order to alert on every defect we can find to raise the confidence rate before the software goes production.
 
 # Terminology & Glossary
 💬
