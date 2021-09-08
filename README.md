@@ -177,7 +177,7 @@ wwww
   
   * [`Testrail`](https://www.gurock.com/testrail/) - currently marked as the top tool (*paid) for team collaboration in the agile era
 
-# Testing articles resources
+# Articles
 🔍
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
