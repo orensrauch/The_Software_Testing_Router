@@ -1,8 +1,9 @@
-# The Tester Router
+# The Tester Router👩🏻‍💻👨🏻‍💻
 This repo is the best place to learn and keep your testing skills sharpend,
 all the content listed below was gathered and placed in a specific order from the intro of the software testing domain up to advanced testing technologies and skills.
 
-if you can then contribute to this awsome tester router repo
+if you can, then contribute to this awsome tester router repo.
+
 enjoe
 ------------
 
@@ -22,7 +23,7 @@ enjoe
 - [Test Management and Collaboration Tools](#Test-Management-and-Collaboration-Tools)
 ------------
 
-## Software testing fundamentals
+## Software testing fundamentals ⚙️
 Before you can start testing software, you need to understand the terminology, the logic reason of when to do what and the why.
 i suggest of corse to learn ISTQB FOUNDATION as a ground base of knowladge required to start your path from.
 there is also a need to understand testing methologies such as Agile and SCRUM framework which is the main domain of performing test nowdays.
@@ -31,15 +32,15 @@ here are main objectives a QA tester need to understand and apply, the more deep
 The QA tester has main responsebility, to give confidence in the stability of the software to performe as the client expect it be.
 we need to thibk on every scenario, every test case, we need to challenge the software in the most creative possible way our time and budgest allow in order to alert on every defect we can find to raise the confidence rate before the software goes production.
 
-# Terminology & Glossary:
+# Terminology & Glossary 💬:
 
 * `Testing` -
 * `Quality Assurance` - 
 * ``
 
-## Document writing methodology
+## Document writing methodology 📝
 
-## Test Types
+## Test Types 🎯
 Theres many testing types and techniques, each one is suited for a different need in the SDLC, most of them can be automated(will be discussed later in this repo) and some are are avalable only when using third-party tools and scripting language.
 
 Here are testing types and techniques a tester must understand and apply when scenario require:
@@ -66,20 +67,20 @@ Testing techniques and tactics:
 * `Production testing`
 
 
-### Manual testing 
+### Manual testing 👩🏻‍🔧
 
-# Automation testing
+# Automation testing 👩🏻‍💻
 
-## Automation testing articles
+## Automation testing articles 🔍
 
-### Automation testing codeless
+### Automation testing codeless 📦
 
-#### Automation testing practice websites
+#### Automation testing practice websites 🖥️
 
-##### Automation testing with code
+##### Automation testing with code 🧰
 
 
-###### Automation testing libraries
+###### Automation testing libraries 💾
 
 # Javascript
 | Library name  | Used for      |
@@ -97,12 +98,12 @@ Testing techniques and tactics:
 | PyTest  | Functional and API testing  |
 |Unittest |automated unit test framework|
 
-# Testing Tools
+# Testing Tools 🛠️
 * [`Leonardo`](https://github.com/outbrain/Leonardo) - Developed By outbrain dev team, This tool allow you as a dev or tester to test your app behaviour under empty inputs, errors coming from the server and situations when the server not responding, Also, unique option is to check "Slow" server responds behaviour.
 
 
 
-# Test Management and Collaboration Tools
+# Test Management and Collaboration Tools 🤝 🧠
 
   * [`Jira`](https://www.atlassian.com/software/jira) - This well known tools.. 
   
