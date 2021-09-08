@@ -97,10 +97,12 @@ Testing techniques and tactics:
 | Library name  | Used for      |
 | ------------- | ------------- |
 | Cypress.js    | Integration && ui test  |
-| Jest.js  | Unit testing|
-  |jasmine.js|Unit testing|
-  |K6|load and performance testing|
-  |||
+| Jest.js       | Unit testing|
+|jasmine.js     |Unit testing|
+|K6             |load and performance testing|
+|[playwright](https://playwright.dev/)|end-to-end testing for modern web apps|
+|[Karma](https://karma-runner.github.io/latest/index.html) |testing JavaScript code in real browsers|
+|Phantom|Scriptable Headless Browser| - currently this project is suspended*
   
   # Python
 | Library name  | Used for      |
