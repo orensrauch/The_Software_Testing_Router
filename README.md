@@ -110,6 +110,8 @@ Here are testing types and techniques a tester must understand and apply when sc
 👩🏻‍🔧
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
+#### Test Pyramid
+
 # Automation testing 
 👩🏻‍💻
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
