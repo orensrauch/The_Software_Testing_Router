@@ -26,7 +26,7 @@ enjoy 🚀
   - [Automation testing libraries & frameworks](#Automation-testing-libraries-and-frameworks)
 - [Testing Tools](#Testing-Tools)
 - [Test Management and Collaboration Tools](#Test-Management-and-Team-collaboration-Tools)
-- [Software Testing Articles Resources](#Articles)
+- [Software Testing Read & Learn Resources](#Articles-and-Learning-resources)
 - [Credits and Thanks](#Credits-and-Thanks)
  
 ------------
