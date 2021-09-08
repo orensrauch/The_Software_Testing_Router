@@ -166,6 +166,12 @@ wwww
 
 * [`POSTMAN`](https://www.postman.com/) - de-facto most used API testing software in the industry nowdays.
 
+* [`RANOREX`](https://www.ranorex.com/) - A great `*paid` GUI tool for automation testing, can build sophisticated tests for desktop, web, and mobile apps
+
+#### Good to Know
+
+* [`GTmetrix`](https://gtmetrix.com/) - A recommended tool for Advanced analysis on your webstie performance in Desktop & Mobile, ability to monitor and track and export reports and many more features.
+
 
 # Test Management and Team collaboration Tools
 🤝 🧠
@@ -177,7 +183,9 @@ wwww
   
   * [`testlink`](https://testlink.org/) - Well known open source test management tool
   
-  * [`Testrail`](https://www.gurock.com/testrail/) - currently marked as the top tool (*paid) for team collaboration in the agile era
+  * [`Testrail`](https://www.gurock.com/testrail/) - currently marked as the top tool `*paid` for team collaboration in the agile era.
+
+* [`PractiTest`](https://www.practitest.com/) - A high quality test management tool with fantastic Documentation and multi integration capabilities.
 
 # Articles
 🔍
