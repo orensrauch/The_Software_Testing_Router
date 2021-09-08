@@ -162,30 +162,31 @@ wwww
 🛠️
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
-* [`Leonardo`](https://github.com/outbrain/Leonardo) - Developed By outbrain dev team, This tool allow you as a dev or tester to test your app behaviour under empty inputs, errors coming from the server and situations when the server not responding, Also, unique option is to check "Slow" server responds behaviour.
+| Tool name  | Used for      |
+| ------------- | ------------- |
+|[`Leonardo`](https://github.com/outbrain/Leonardo)|Developed By outbrain dev team, This tool allow you as a dev or tester to test your app behaviour under empty inputs, errors coming from the server and situations when the server not responding, Also, unique option is to check "Slow" server responds behaviour|
+|[`POSTMAN`](https://www.postman.com/)|de-facto most used API testing software in the industry nowdays|
+|[`RANOREX`](https://www.ranorex.com/)| A great `*paid` GUI tool for automation testing, can build sophisticated tests for desktop, web, and mobile apps|
 
-* [`POSTMAN`](https://www.postman.com/) - de-facto most used API testing software in the industry nowdays.
-
-* [`RANOREX`](https://www.ranorex.com/) - A great `*paid` GUI tool for automation testing, can build sophisticated tests for desktop, web, and mobile apps
 
 #### Good to Know
 
-* [`GTmetrix`](https://gtmetrix.com/) - A recommended tool for Advanced analysis on your webstie performance in Desktop & Mobile, ability to monitor and track and export reports and many more features.
+| Tool name  | Used for      |
+| ------------- | ------------- |
+|[`GTmetrix`](https://gtmetrix.com/)|A recommended tool for Advanced analysis on your webstie performance in Desktop & Mobile, ability to monitor and track and export reports and many more features|
 
 
 # Test Management and Team collaboration Tools
 🤝 🧠
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
-  * [`Jira`](https://www.atlassian.com/software/jira) - This well known tools.. 
-  
-  * [`YouTrack`](https://www.jetbrains.com/youtrack/) - Developed by Jet Brains, some of you know this company as the developers of Intellij, but this tool
-  
-  * [`testlink`](https://testlink.org/) - Well known open source test management tool
-  
-  * [`Testrail`](https://www.gurock.com/testrail/) - currently marked as the top tool `*paid` for team collaboration in the agile era.
-
-  * [`PractiTest`](https://www.practitest.com/) - A high quality test management tool with fantastic Documentation and multi integration capabilities.
+| Logo  | Link      | What is About|
+| ------------- | ------------- | ------------- |
+|![](https://www.jfrog.com/jira/images/atlassian-jira-logo-large.png)|[`Jira`](https://www.atlassian.com/software/jira)| a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management|
+|![](https://resources.jetbrains.com/storage/products/youtrack/img/meta/youtrack_logo_300x300.png)|[`YouTrack`](https://www.jetbrains.com/youtrack/)|Developed by Jet Brains, `paid*` tool, concidered to be the most professional a team can get|
+|![](https://i0.wp.com/kubedex.com/wp-content/uploads/2018/09/TestLink.png?fit=230%2C230&ssl=1)|[`testlink`](https://testlink.org/)|Well known open source test management tool|
+|![](https://www.alfasoft.com/images/products/TestRail/Images/TestRail_Logo_Square.png)|[`Testrail`](https://www.gurock.com/testrail/)|currently marked as the top tool `*paid` for team collaboration in the agile era|
+|![](https://www.practitest.com/assets/img/logo.png)|[`PractiTest`](https://www.practitest.com/)|A high quality test management tool with fantastic Documentation and multi integration capabilities|
 
 # Articles and Learning resources
 🔍
@@ -195,6 +196,7 @@ wwww
 | ------------- | ------------- | ------------- |
 |![](https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/satisfice-logo.jpg?raw=true)|[`SATISFICE`](https://www.satisfice.com/)|by James and Lenore Bach, Awesome testing practical learning material|
 |![](https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/tmap-logo.png.jpg?raw=true)|[`Tmap`](https://www.tmap.net/)|Well known publisher of books and learning material in the QA and DevOps domain|
+|![](https://cdn.guru99.com/images/cropped-test2.png)|[`Guru99`](https://www.guru99.com/)|This website in the ultimate learning resource for software tester, with a lot of rich content and nice testing simulatores for the beginner QA tester|
 
 
 # Credits and Thanks
