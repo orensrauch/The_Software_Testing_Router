@@ -22,7 +22,7 @@ enjoy 🚀
 - 
 - [Automation testing](#Automation-testing)
   - [Automation testing articles](#Automation-testing-articles) 
-  - [Automation testing codeless](#Automation-testing-codeless)
+  - [Automation testing codeless](#Automation-testing-`codeless`-tools)
   - [Automation testing practice websites](#Automation-testing-practice-websites)
   - [Automation testing with code](#Automation-testing-with-code)
   - - [Automation testing libraries & frameworks](#Automation-testing-libraries-&-frameworks)
@@ -35,6 +35,8 @@ enjoy 🚀
 
 ## Software testing fundamentals 
 ⚙️
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+
 Before you can start testing software, you need to understand the terminology, the logic reason of when to do what and the why.
 i suggest of corse to learn ISTQB FOUNDATION as a ground base of knowladge required to start your path from.
 there is also a need to understand testing methologies such as Agile and SCRUM framework which is the main domain of performing test nowdays.
@@ -45,7 +47,7 @@ we need to thibk on every scenario, every test case, we need to challenge the so
 
 # Terminology & Glossary
 💬
-- [Top Page](#The-Software-Testing-Router)
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 - 
 * `Testing` -
 * `Quality Assurance` - 
@@ -53,12 +55,12 @@ we need to thibk on every scenario, every test case, we need to challenge the so
 
 ## Document writing methodology
 📝
-- [Top Page](#The-Software-Testing-Router)
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
 
 ## Testing Types 
 🎯
-- [Top Page](#The-Software-Testing-Router)
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
 Theres many testing types and techniques, each one is suited for a different need in the SDLC, most of them can be automated(will be discussed later in this repo) and some are are avalable only when using third-party tools and scripting language.
 
@@ -88,25 +90,34 @@ Testing techniques and tactics:
 
 ### Manual testing 
 👩🏻‍🔧
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
 # Automation testing 
 👩🏻‍💻
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
 ## Automation testing articles
 🔍
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
-### Automation testing codeless
+### Automation testing `codeless` tools
 📦
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
 #### Automation testing practice websites 
 🖥️
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+
+wwww
 
 ##### Automation testing with code 
 🧰
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
 
 ###### Automation testing libraries & frameworks
 💾
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
 # Javascript
 | Library name  | Used for      |
@@ -130,11 +141,14 @@ Testing techniques and tactics:
 
 # Testing Tools 
 🛠️
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- 
 * [`Leonardo`](https://github.com/outbrain/Leonardo) - Developed By outbrain dev team, This tool allow you as a dev or tester to test your app behaviour under empty inputs, errors coming from the server and situations when the server not responding, Also, unique option is to check "Slow" server responds behaviour.
 
 
 # Test Management and Collaboration Tools
 🤝 🧠
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
   * [`Jira`](https://www.atlassian.com/software/jira) - This well known tools.. 
   
@@ -146,6 +160,8 @@ Testing techniques and tactics:
 
 
 # Credits and Thanks
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+- 
 * Assets
 
   -header image : <a href='https://www.freepik.com/photos/technology'>Technology photo created by freepik - www.freepik.com</a>
