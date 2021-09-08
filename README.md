@@ -7,7 +7,7 @@ if you can, then contribute to this awsome repo.
 
 
 
-enjoe
+enjoy 🚀
 ------------
 
 **Table of Contents**
