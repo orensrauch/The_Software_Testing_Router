@@ -45,7 +45,8 @@ we need to thibk on every scenario, every test case, we need to challenge the so
 # Terminology & Glossary
 💬
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
-- 
+
+## The meaning of 
 * `Testing` -
 * `Quality Assurance` - 
 * ``
@@ -68,7 +69,7 @@ Here are testing types and techniques a tester must understand and apply when sc
 
 
 | Test name  | Used for      | Learn more |
-| ------------- | ------------- | ------------- 
+| ------------- | ------------- | ------------- |
 | `Unit testing`   | a software testing method by which individual units of source code being tested  | [Unit testing](https://en.wikipedia.org/wiki/Unit_testing) |
 | `Component testing`  | done after unit testing, testing component without integrating with other components e.g. modules, classes, objects, and programs |[Component testing](https://economictimes.indiatimes.com/definition/component-testing) |
 | `Integration testing` |Testing group of units that suppose to work together and being connected as one unit of action| [Integration testing](https://en.wikipedia.org/wiki/Integration_testing)|
