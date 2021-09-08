@@ -117,9 +117,6 @@ Here are testing types and techniques a tester must understand and apply when sc
 👩🏻‍💻
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
-# Automation testing articles
-🔍
-- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
 # Automation testing codeless tools
 📦
@@ -179,6 +176,11 @@ wwww
   
   * [`Testrail`](https://www.gurock.com/testrail/) - currently marked as the top tool (*paid) for team collaboration in the agile era
 
+# Testing articles resources
+🔍
+- [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
+
+* `SATISFICE`
 
 # Credits and Thanks
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
