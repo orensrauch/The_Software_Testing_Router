@@ -185,13 +185,18 @@ wwww
   
   * [`Testrail`](https://www.gurock.com/testrail/) - currently marked as the top tool `*paid` for team collaboration in the agile era.
 
-* [`PractiTest`](https://www.practitest.com/) - A high quality test management tool with fantastic Documentation and multi integration capabilities.
+  * [`PractiTest`](https://www.practitest.com/) - A high quality test management tool with fantastic Documentation and multi integration capabilities.
 
 # Articles and Learning resources
 🔍
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
-![](https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/satisfice-logo.jpg?raw=true)[`SATISFICE`](https://www.satisfice.com/) -  by James and Lenore Bach, Awesome testing practical learning material.
+| Logo  | Link      | What is About|
+| ------------- | ------------- | ------------- |
+|![](https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/satisfice-logo.jpg?raw=true)|[`SATISFICE`](https://www.satisfice.com/)|by James and Lenore Bach, Awesome testing practical learning material|
+|![](https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/tmap-logo.png.jpg?raw=true)|[`Tmap`](https://www.tmap.net/)|Well known publisher of books and learning material in the QA and DevOps domain|
+
+
 
 ![](https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/tmap-logo.png.jpg?raw=true)[`Tmap`](https://www.tmap.net/)
 
