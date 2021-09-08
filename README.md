@@ -17,17 +17,20 @@ enjoy 🚀
 - [Software testing fundamentals](#Software-testing-fundamentals)
   - [Document writing methodology](#Document-writing-methodology)
   - [Test Types](#Testing-Types)
+  - 
 - [Manual testing](#Manual-testing)
+- 
 - [Automation testing](#Automation-testing)
   - [Automation testing articles](#Automation-testing-articles) 
   - [Automation testing codeless](#Automation-testing-codeless)
   - [Automation testing practice websites](#Automation-testing-practice-websites)
   - [Automation testing with code](#Automation-testing-with-code)
   - - [Automation testing libraries & frameworks](#Automation-testing-libraries-&-frameworks)
+  - 
 - [Testing Tools](#Testing-Tools)
 - [Test Management and Collaboration Tools](#Test-Management-and-Collaboration-Tools)
-  - [Credits and Thanks](#Credits-and-Thanks)
-  - -[Testing Types](#Testing-Types)
+- [Credits and Thanks](#Credits-and-Thanks)
+ 
 ------------
 
 ## Software testing fundamentals 
