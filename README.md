@@ -22,7 +22,7 @@ enjoy 🚀
 - 
 - [Automation testing](#Automation-testing)
   - [Automation testing articles](#Automation-testing-articles) 
-  - [Automation testing codeless](#Automation-testing-`codeless`-tools)
+  - [Automation testing codeless](#Automation-testing-codeless-tools)
   - [Automation testing practice websites](#Automation-testing-practice-websites)
   - [Automation testing with code](#Automation-testing-with-code)
   - - [Automation testing libraries & frameworks](#Automation-testing-libraries-&-frameworks)
@@ -33,7 +33,7 @@ enjoy 🚀
  
 ------------
 
-## Software testing fundamentals 
+# Software testing fundamentals 
 ⚙️
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
@@ -53,12 +53,12 @@ we need to thibk on every scenario, every test case, we need to challenge the so
 * `Quality Assurance` - 
 * ``
 
-## Document writing methodology
+# Document writing methodology
 📝
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
 
-## Testing Types 
+# Testing Types 
 🎯
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
@@ -66,14 +66,14 @@ Theres many testing types and techniques, each one is suited for a different nee
 
 Here are testing types and techniques a tester must understand and apply when scenario require:
 
-Testing Levels:
+### Testing Levels:
 * `Unit testing`
 * `Component testing`
 * `Integration testing`
 * `System testing`
 * `Acceptance testing`
 
-Testing techniques and tactics:
+### Testing techniques and tactics:
 * `smoke test`
 * `sainaty test`
 * `Black box testing`
@@ -88,7 +88,7 @@ Testing techniques and tactics:
 * `Production testing`
 
 
-### Manual testing 
+# Manual testing 
 👩🏻‍🔧
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
@@ -96,30 +96,30 @@ Testing techniques and tactics:
 👩🏻‍💻
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
-## Automation testing articles
+# Automation testing articles
 🔍
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
-### Automation testing `codeless` tools
+# Automation testing codeless tools
 📦
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
-#### Automation testing practice websites 
+# Automation testing practice websites 
 🖥️
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
 wwww
 
-##### Automation testing with code 
+# Automation testing with code 
 🧰
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
 
-###### Automation testing libraries & frameworks
+# Automation testing libraries & frameworks
 💾
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
-# Javascript
+## Javascript
 | Library name  | Used for      |
 | ------------- | ------------- |
 |[Chai](https://www.chaijs.com/)|BDD / TDD assertion library|
@@ -132,7 +132,7 @@ wwww
 |[Karma](https://karma-runner.github.io/latest/index.html) |testing JavaScript code in real browsers|
 |Phantom|Scriptable Headless Browser| - currently this project is suspended*
   
-  # Python
+## Python
 | Library name  | Used for      |
 | ------------- | ------------- |
 | Robot   | Acceptance and TDD Testing  |
