@@ -47,9 +47,22 @@ we need to thibk on every scenario, every test case, we need to challenge the so
 - [⏫ Back to Top Page ⏫](#The-Software-Testing-Router)
 
 ## The meaning of 
-* `Testing` -
-* `Quality Assurance` - 
-* ``
+| Term ☝🏻        |                Meaning❓      |
+| ------------- | -------------               |
+| Quality Assurance | Activities focused on providing confidence that quality requirements will be fulfilled|
+|Testing|The process consisting of all lifecycle activities, both static and dynamic, concerned with planning, preparation and evaluation of a component or system and related work products to determine that they satisfy specified requirements, to demonstrate that they are fit for purpose and to detect defects|
+|Defect|An imperfection or deficiency in a work product where it does not meet its requirements or specifications|
+|Bug| a failure or a flaw in the software program|
+|Failure|An event in which a component or system does not perform a required function within specified limits|
+|Error / Mistake|A human action that produces an incorrect result|
+|Agile|A group of software development methodologies based on iterative incremental development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams|
+|SCRUM|An iterative incremental framework for managing projects commonly used with Agile software development|
+|atomic condition|A condition that does not contain logical operators|
+|[test pyramid](#Test-Pyramid)|A graphical model representing the relationship of the amount of testing per level, with more at the bottom than at the top|
+|equivalence partition|A subset of the value domain of a variable within a component or system in which all values are expected to be treated the same based on the specification|
+
+
+
 
 # Document writing methodology
 📝
@@ -66,8 +79,6 @@ Here are testing types and techniques a tester must understand and apply when sc
 
 ### Testing Levels and approach:
 
-
-
 | Test name  | Used for      | Learn more |
 | ------------- | ------------- | ------------- |
 | `Unit testing`   | a software testing method by which individual units of source code being tested  | [Unit testing](https://en.wikipedia.org/wiki/Unit_testing) |
@@ -77,18 +88,22 @@ Here are testing types and techniques a tester must understand and apply when sc
 |`Acceptance testing`| a test conducted to determine if the requirements of a specification or contract are met|[Acceptance testing](https://en.wikipedia.org/wiki/Acceptance_testing) |
 
 ### Testing techniques and tactics:
-* `smoke test`
-* `sainaty test`
-* `Black box testing`
-* `White box testing`
-* `End to end testing` - AKA E2E testing,
-* `Load testing`
-* `Regression testing`
-* `API testing`
-* `UI testing`
-* `Alpha testing`
-* `Beta testing`
-* `Production testing`
+| Test name  | Used for      | 
+| ------------- | ------------- |
+|End to end testing|AKA E2E testing, A type of testing in which business processes are tested from start to finish under production-like circumstances|
+|API testing|Testing performed by submitting requests to the test object using its application programming interface|
+|Alpha testing| A type of acceptance testing performed in the developer's test environment by roles outside the development organization|
+|Beta testing|A type of acceptance testing performed at an external site to the developer's test environment by roles outside the development organization|
+|Production acceptance testing|A type of acceptance testing performed to determine if operations and/or systems administration staff can accept a system.|
+|Smoke / Confidence test|A test suite that covers the main functionality of a component or system to determine whether it works properly before planned testing begins|
+|Sanity/ Check test|a basic test to quickly evaluate whether a claim or the result of a calculation can possibly be true|
+|Regression testing|A type of change-related testing to detect whether defects have been introduced or uncovered in unchanged areas of the software|
+|regression-averse test strategy|A test strategy whereby the test team applies various techniques to manage the risk of regression such as functional and/or non-functional regression test automation at one or more levels|
+|back-to-back testing|Testing to compare two or more variants of a test item or a simulation model of the same test item by executing the same test cases on all variants and comparing the results|
+|UI/ GUI testing|Testing performed by interacting with the software under test via the graphical user interface|
+|Black box test technique|A test technique based on an analysis of the specification of a component or system, tester does not care about the internal code, but the expected output by the given input|
+|Grey box testing| a combination of white-box testing and black-box testing, The aim of this testing is to search for the defects if any due to improper structure or improper usage of applications|
+|White/ clear box testing|The opposit of Black box, The tester chooses inputs to exercise paths through the code and determine the expected outputs|
 
 
 # Manual testing 
