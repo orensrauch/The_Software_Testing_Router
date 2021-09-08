@@ -11,6 +11,7 @@ enjoe
 ------------
 
 **Table of Contents**
+
 - [Top Page](#The-Software-Testing-Router)
 - [Software testing fundamentals](#Software-testing-fundamentals)
   - [Document writing methodology](#Document-writing-methodology)
@@ -24,7 +25,7 @@ enjoe
   - - [Automation testing libraries](#Automation-testing-libraries)
 - [Testing Tools](#Testing-Tools)
 - [Test Management and Collaboration Tools](#Test-Management-and-Collaboration-Tools)
-- [Credits and Thanks](#Credits-and-Thanks)
+  - [Credits and Thanks](#Credits-and-Thanks)
 ------------
 
 ## Software testing fundamentals ⚙️
@@ -124,7 +125,8 @@ Testing techniques and tactics:
 
 
 # Credits and Thanks
-* Assets:
+* Assets
+
   -header image : <a href='https://www.freepik.com/photos/technology'>Technology photo created by freepik - www.freepik.com</a>
 
 
