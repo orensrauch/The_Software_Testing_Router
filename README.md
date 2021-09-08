@@ -96,10 +96,10 @@ Testing techniques and tactics:
 # Javascript
 | Library name  | Used for      |
 | ------------- | ------------- |
-| Cypress.js    | Integration && ui test  |
-| Jest.js       | Unit testing|
-|jasmine.js     |Unit testing|
-|K6             |load and performance testing|
+| [Cypress](https://www.cypress.io/)    | E2E testing (next big thing) |
+| [Jest.js](https://jestjs.io/)       | Unit testing|
+|[jasmine.js](https://jasmine.github.io/index.html)     |Unit testing|
+|[K6](https://k6.io/) |Stress testing|
 |[playwright](https://playwright.dev/)|end-to-end testing for modern web apps|
 |[Karma](https://karma-runner.github.io/latest/index.html) |testing JavaScript code in real browsers|
 |Phantom|Scriptable Headless Browser| - currently this project is suspended*
@@ -113,7 +113,6 @@ Testing techniques and tactics:
 
 # Testing Tools 🛠️
 * [`Leonardo`](https://github.com/outbrain/Leonardo) - Developed By outbrain dev team, This tool allow you as a dev or tester to test your app behaviour under empty inputs, errors coming from the server and situations when the server not responding, Also, unique option is to check "Slow" server responds behaviour.
-
 
 
 # Test Management and Collaboration Tools 🤝 🧠
