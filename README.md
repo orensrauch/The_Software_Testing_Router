@@ -187,7 +187,8 @@ wwww
 |![](https://iconape.com/wp-content/files/ej/371677/svg/371677.svg)|[`YouTrack`](https://www.jetbrains.com/youtrack/)|Developed by Jet Brains, `paid*` tool, concidered to be the most professional a team can get|
 |![](https://d1myhw8pp24x4f.cloudfront.net/software_logo/1574939028_TestLink%20logo_mid.png)|[`testlink`](https://testlink.org/)|Well known open source test management tool|
 |![](https://www.appvizer.com/media/application/29234/logo/logo-testrail-by-gurock.png)|[`Testrail`](https://www.gurock.com/testrail/)|currently marked as the top tool `*paid` for team collaboration in the agile era|
-|![](https://www.practitest.com/assets/img/logo.png)|[`PractiTest`](https://www.practitest.com/)|A high quality test management tool with fantastic Documentation and multi integration capabilities|
+|![](https://www.practitest.com/assets/img/logo.png)|[`PractiTest`](https://www.practitest.com/)|High quality test management tool with fantastic Documentation and multi integration capabilities|
+|![](https://avatars.githubusercontent.com/u/17636279?s=200&v=4)|[`ReportPortal.io`](https://reportportal.io/)|AI-powered Test Automation Dashboard open source|
 
 # Articles and Learning resources
 🔍
