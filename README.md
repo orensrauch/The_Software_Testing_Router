@@ -99,6 +99,11 @@ Here are testing types and techniques a tester must understand and apply when sc
 |`System testing`|a complete integrated system test to evaluate the system's compliance with its specified requirements|[System testing](https://en.wikipedia.org/wiki/System_testing)|
 |`Acceptance testing`| a test conducted to determine if the requirements of a specification or contract are met|[Acceptance testing](https://en.wikipedia.org/wiki/Acceptance_testing) |
 
+#### Test Pyramid
+
+<img src="https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/Testing%20Pyramid.png" alt="test pyramid cot" width="500"/>
+
+
 ### Testing techniques and tactics:
 | Test name  | Used for      | 
 | ------------- | ------------- |
@@ -122,9 +127,6 @@ Here are testing types and techniques a tester must understand and apply when sc
 👩🏻‍🔧
 - [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
-#### Test Pyramid
-
-<img src="https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/Testing%20Pyramid.png" alt="test pyramid cot" width="500"/>
 
 
 # Automation testing 
