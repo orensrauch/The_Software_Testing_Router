@@ -1,10 +1,12 @@
 # The Software Testing Router
-👩🏻‍💻👨🏻‍💻
+
 This repo is the best place to learn and keep your testing skills sharpen,
 The entire content listed below was gathered and placed in a specific order from the intro of the software testing domain up to advanced testing technologies and skills.
-![](https://github.com/orensrauch/The_Software_Tester_Oracle/blob/main/assets/the%20best%20software%20testing%20resource.png?raw=true).
 
-If you can, then contribute to this great repo.
+<img src="https://github.com/orensrauch/The_Software_Tester_Oracle/blob/main/assets/the%20best%20software%20testing%20resource.png" alt="software testing router header" width="500"/>
+
+
+### 👨🏻‍💻 If you can, contribute to this great repo. 👩‍💻
 
 
 
@@ -121,7 +123,9 @@ Here are testing types and techniques a tester must understand and apply when sc
 - [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
 
 #### Test Pyramid
-![](https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/Testing%20Pyramid.png?raw=true)
+
+<img src="https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/Testing%20Pyramid.png" alt="test pyramid cot" width="500"/>
+
 
 # Automation testing 
 👩🏻‍💻
