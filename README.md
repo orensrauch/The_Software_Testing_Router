@@ -144,13 +144,19 @@ wwww
 | ------------- | ------------- |
 |[Chai](https://www.chaijs.com/)|BDD / TDD assertion library|
 |[Mocha](https://mochajs.org/)|Testing framework allowing Async|
-| [Jest.js](https://jestjs.io/)       | Unit testing|
+|[Jest.js](https://jestjs.io/)       | Unit testing|
 |[jasmine.js](https://jasmine.github.io/index.html)     |Unit testing|
 |[K6](https://k6.io/) |Stress testing|
-| [Cypress](https://www.cypress.io/)    | E2E testing (next big thing) |
+|[Cypress](https://www.cypress.io/)    | E2E testing (next big thing) |
 |[playwright](https://playwright.dev/)|end-to-end testing for modern web apps|
 |[Karma](https://karma-runner.github.io/latest/index.html) |testing JavaScript code in real browsers|
-|Phantom|Scriptable Headless Browser| - currently this project is suspended*
+|Phantom|Scriptable Headless Browser|  currently this project is suspended
+|[cucumber](https://github.com/cucumber/cucumber-js)|tool for running automated tests written in plain language|
+|[nightwatch.js](https://nightwatchjs.org/)  |End-to-end testing, the easy way.   |
+|[webdriver.io](https://webdriver.io/) |browser and mobile automation test framework for Node.js|
+
+
+
   
 ## Python
 | Library name  | Used for      |
