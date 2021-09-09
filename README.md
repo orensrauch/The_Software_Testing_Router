@@ -44,6 +44,14 @@ here are the main objectives a QA tester needs to understand and apply, the deep
 The QA tester has the main responsibility, to give confidence in the stability of the software to perform as the client expects it to be.
 we need to think about every scenario, every test case, we need to challenge the software in the most creative possible way our time and budget allow in order to alert on every defect we can find to raise the confidence rate before the software goes production.
 
+# How to Start with Testing?
+- [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
+
+Depend on your path you aim for, Software developer or QA Manual/ Automation or Automation developer, all of those paths start from the understanding of testing or debugging edit value, why do we even need this? why cant a developer just write his App and deploy for production? can't a developer do his own testing? and many more importent questions you should learn the answer to.
+
+there is a universal language related to the Software development lifecycle that all tech employees must stick to inorder to communicate and understand each other whatever his role, basic set of terms and approaches are listed below.
+more information can be learned at [ISTQB Glossary](https://glossary.istqb.org/en/search/)
+
 # Terminology & Glossary
 💬
 - [⏫ Back to Page Top ⏫](#The-Software-Testing-Router)
@@ -150,7 +158,7 @@ wwww
 |[Cypress](https://www.cypress.io/)    | E2E testing (next big thing) |
 |[playwright](https://playwright.dev/)|end-to-end testing for modern web apps|
 |[Karma](https://karma-runner.github.io/latest/index.html) |testing JavaScript code in real browsers|
-|Phantom|Scriptable Headless Browser|  currently this project is suspended
+|Phantom|Scriptable Headless Browser (currently this project is suspended)|  
 |[cucumber](https://github.com/cucumber/cucumber-js)|tool for running automated tests written in plain language|
 |[nightwatch.js](https://nightwatchjs.org/)  |End-to-end testing, the easy way.   |
 |[webdriver.io](https://webdriver.io/) |browser and mobile automation test framework for Node.js|
