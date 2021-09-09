@@ -154,16 +154,26 @@ wwww
 |[cucumber](https://github.com/cucumber/cucumber-js)|tool for running automated tests written in plain language|
 |[nightwatch.js](https://nightwatchjs.org/)  |End-to-end testing, the easy way.   |
 |[webdriver.io](https://webdriver.io/) |browser and mobile automation test framework for Node.js|
+|[CodeceptJS](https://codecept.io/)|End 2 End Testing|
+|[TestCafe](https://testcafe.io/)|No WebDriver required. No manual timeouts needed. Cross-browser E2E testing|
 
-
+## Java
+| Library name  | Used for      |
+| ------------- | ------------- |
+|[TestNG](https://testng.org/doc/documentation-main.html)|designed to cover all categories of tests:  unit, functional, end-to-end, integration, etc...|
+|[JUnit](https://junit.org/junit5/)|TDD and unit testing |
+|[Spock](https://spockframework.org/)|testing and specification framework for Java and Groovy applications|
+|[Karate](https://github.com/intuit/karate)|open-source general-purpose test-automation framework|
+|[Scalatest](https://www.scalatest.org/)|open-source testing toolkit for Scala and Java programmers|
 
   
 ## Python
 | Library name  | Used for      |
 | ------------- | ------------- |
-| Robot   | Acceptance and TDD Testing  |
-| PyTest  | Functional and API testing  |
-|Unittest |automated unit test framework|
+|[Robot framework](https://robotframework.org/)  | used for test automation and robotic process automation (RPA)  |
+|[PyTest](https://docs.pytest.org/en/6.2.x/)  | Functional and API testing  |
+|[Unittest](https://docs.python.org/3/library/unittest.html#module-unittest) |automated unit test framework|
+|[nose](https://nose.readthedocs.io/en/latest/)|Unit testing|
 
 # Testing Tools 
 🛠️
