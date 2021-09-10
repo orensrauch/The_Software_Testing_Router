@@ -199,6 +199,7 @@ wwww
 |[`POSTMAN`](https://www.postman.com/)|de-facto most used API testing software in the industry nowdays|
 |[`RANOREX`](https://www.ranorex.com/)| A great `*paid` GUI tool for automation testing, can build sophisticated tests for desktop, web, and mobile apps|
 |[`BrowserStack`](https://www.browserstack.com/)|web and mobile testing platform |
+|[`Percy`](https://percy.io/)|Percy detects, groups, and highlights relevant visual changes across your web applications and components.|
 
 #### Good to Know
 
