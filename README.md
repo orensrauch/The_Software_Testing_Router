@@ -198,7 +198,7 @@ wwww
 |[`Leonardo`](https://github.com/outbrain/Leonardo)|Developed By outbrain dev team, This tool allow you as a dev or tester to test your app behaviour under empty inputs, errors coming from the server and situations when the server not responding, Also, unique option is to check "Slow" server responds behaviour|
 |[`POSTMAN`](https://www.postman.com/)|de-facto most used API testing software in the industry nowdays|
 |[`RANOREX`](https://www.ranorex.com/)| A great `*paid` GUI tool for automation testing, can build sophisticated tests for desktop, web, and mobile apps|
-
+|[`BrowserStack`](https://www.browserstack.com/)|web and mobile testing platform |
 
 #### Good to Know
 
