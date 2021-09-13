@@ -102,7 +102,7 @@ Here are testing types and techniques a tester must understand and apply when sc
 
 #### Test Pyramid
 
-<img src="https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/Testing%20Pyramid.png" alt="test pyramid cot" width="500"/>
+<img src="https://github.com/orensrauch/The_Software_Testing_Router/blob/main/assets/Testing%20Pyramid.png" alt="test pyramid cot" width="100%"/>
 
 
 ### Testing techniques and tactics:
