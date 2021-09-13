@@ -3,7 +3,7 @@
 This repo is the best place to learn and keep your testing skills sharpen,
 The entire content listed below was gathered and placed in a specific order from the intro of the software testing domain up to advanced testing technologies and skills.
 
-<img src="https://github.com/orensrauch/The_Software_Tester_Oracle/blob/main/assets/the%20best%20software%20testing%20resource.png" alt="software testing router header" width="100%"/>
+<img src="https://github.com/orensrauch/The_Software_Tester_Oracle/blob/main/assets/the%20best%20software%20testing%20resource.png" alt="software-testing-router-header" width="100%"/>
 
 
 ### 👨🏻‍💻 If you can, contribute to this great repo. 👩‍💻
