@@ -74,6 +74,8 @@ more information can be learned at [ISTQB Glossary](https://glossary.istqb.org/e
 |[test pyramid](#Test-Pyramid)|A graphical model representing the relationship of the amount of testing per level, with more at the bottom than at the top|
 |equivalence partition|A subset of the value domain of a variable within a component or system in which all values are expected to be treated the same based on the specification|
 
+* More terms [`HERE`](https://trello.com/b/EDXzUFni/keywords-in-testing)
+
 
 
 
